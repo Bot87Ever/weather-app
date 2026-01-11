@@ -13,9 +13,6 @@ Weather App built using **React**, **OpenWeather API**, and a **glassmorphism UI
 - OpenWeather API
 - Modern CSS (Glassmorphism)
 
-##  Screenshots
-(Add screenshot here once you want)
-
 ##  Installation
 Run the following commands:
 
